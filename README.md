@@ -58,7 +58,7 @@ Open-source solutions empower organizations to maintain total data privacy, run 
 ### ⚡ Core Frameworks & Transaction Monitoring
 *Sorted by GitHub Star Count (Descending)* 🌟
 
-| Project | Stars 🌟 | Description | License | Focus Area |
+| Project | Github_Stars 🌟 | Description | License | Focus Area |
 |:---|:---|:---|:---|:---|
 | **[Drools](https://github.com/kiegroup/drools)** | [<img src="https://img.shields.io/github/stars/kiegroup/drools?style=social&color=white" alt="Drools Stars"/>](https://github.com/kiegroup/drools/stargazers) | Powerful open-source business rules engine (BRMS) extensively used for real-time fraud policies, compliance logic, and instant transaction decisioning. | Apache-2.0 | Policy & Rules Decisioning |
 | **[Tazama](https://github.com/tazama-lf/tazama)** | [<img src="https://img.shields.io/github/stars/tazama-lf/tazama?style=social&color=white" alt="Tazama Stars"/>](https://github.com/tazama-lf/tazama/stargazers) | Linux Foundation open-source real-time transaction monitoring platform designed for financial fraud detection, AML, and instant payment surveillance. | Apache-2.0 | Real-Time Financial Surveillance |
@@ -72,7 +72,7 @@ Open-source solutions empower organizations to maintain total data privacy, run 
 ### 🛠️ Specialized ML Libraries & Infrastructure
 *Sorted by GitHub Star Count (Descending)* 🌟
 
-| Library / Tool | Stars 🌟 | Description | Focus Area |
+| Library / Tool | Github_Stars 🌟 | Description | Focus Area |
 |:---|:---|:---|:---|
 | **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** | [<img src="https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white" alt="scikit-learn Stars"/>](https://github.com/scikit-learn/scikit-learn/stargazers) | Essential machine learning library supplying Isolation Forest, One-Class SVM, and Local Outlier Factor (LOF) for fraud anomaly scoring. | Anomaly & Outlier Analytics |
 | **[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)** | [<img src="https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social&color=white" alt="PyTorch Geometric Stars"/>](https://github.com/pyg-team/pytorch_geometric/stargazers) | Graph Neural Network (GNN) framework used to detect fraud rings, money laundering networks, and complex entity connections. | Graph Fraud ML & Network Linkage |
